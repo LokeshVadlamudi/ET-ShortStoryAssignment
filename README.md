@@ -6,6 +6,7 @@ Medium Link : https://lokesh-dev96.medium.com/how-pre-training-can-help-solve-co
 
 Slides Link : https://www.slideshare.net/lokeshv9/dl-short-story
 
+Youtube Link : https://youtu.be/0EFYX2BUOHA
 
 
 
